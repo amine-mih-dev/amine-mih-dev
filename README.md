@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Various non-invasive methods to detect and predict diabetes**
 
-- 🌱 I’m currently learning **back-end development and AI related Technologies like Transformers, NLP,etc.**
+- 🌱 I’m currently learning **back-end development and AI related Technologies like Transformers, NLP, etc.**
 
 - 👯 I’m looking to collaborate on **bioinformatic and healthcare projects**
 
 - 🤝 I’m looking for help with **gaining industry/production level standards**
 
-- 👨‍💻 All of my projects are available at [https://github.com/amine-mih-dev](https://github.com/amine-mih-dev)
+- 👨‍💻 All of my projects are available here
 
 - 💬 Ask me about **Machine Learning and Deep Learning**
 
