@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Amine Mihoubi</h1>
 <h3 align="center">an Artificial Intelligence Engineer and Ph.D. student in A.I</h3>
