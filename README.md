@@ -3,13 +3,12 @@
 <h1 align="center">Hi 👋, I'm Amine Mihoubi</h1>
 <h3 align="center">an Artificial Intelligence Engineer and Ph.D. student in A.I</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amine-mih-dev&label=Profile%20views&color=0e75b6&style=flat" alt="amine-mih-dev" /> </p>
 
-- 🔭 I’m currently working on **Various non-invasive methods to detect and predict diabetes**
+- 🔭 I’m currently working on **Various non-invasive methods to detect and predict type 2 diabetes**
 
-- 🌱 I’m currently learning **back-end development and AI related Technologies like Transformers, NLP, etc.**
+- 🌱 I’m currently learning **back-end development, and AI related Technologies like Transformers, NLP, etc.**
 
-- 👯 I’m looking to collaborate on **bioinformatic and healthcare projects**
+- 👯 I’m looking to collaborate on **bioinformatic and healthcare related projects**
 
 - 🤝 I’m looking for help with **gaining industry/production level standards**
 
