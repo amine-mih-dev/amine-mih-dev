@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Various non-invasive methods to detect and predict type 2 diabetes**
 
-- 🌱 I’m currently learning **back-end development, and AI related Technologies like Transformers, NLP, etc.**
+- 🌱 I’m currently learning **Pytorch, and AI related Technologies like Transformers, NLP, etc.**
 
-- 👯 I’m looking to collaborate on **computer vision, signal processing and cardiovascular disease diagnostic related projects**
+- 👯 I’m looking to collaborate on **computer vision, signal processing and type 2 diabetes diagnostic related projects**
 
 - 🤝 I’m looking for help with **gaining industry/production level standards**
 
