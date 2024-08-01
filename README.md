@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Amine Mihoubi</h1>
-<h3 align="center">an Artificial Intelligence Engineer and Ph.D. student in A.I</h3>
+<h3 align="center">a Junior Machine Learning Engineer</h3>
 
 
 - 🔭 I’m currently working on **Various non-invasive methods to detect and predict type 2 diabetes**
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Machine Learning and Deep Learning**
 
-- 📫 How to reach me **mohammed.mihoubi@univ-bejaia.dz**
+- 📫 How to reach me **aminemihoubim@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
